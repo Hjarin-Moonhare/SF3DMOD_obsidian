@@ -2,4 +2,4 @@
 title: Test Welcome Page
 ---
 
-This is a blank Quartz installation.
+Welcome to the common Starfield modding knowledge base of SF3D!
